@@ -1,1 +1,1 @@
-wget https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.31/lolMiner_v1.62_Lin64.tar.gz && tar -zxvf lolMiner_v1.62_Lin64.tar.gz && cd 1.62 && clear && ./lolMiner --algo ETHASH --pool asia-etc.2miners.com:1010 -u 0x4A492FdD5fea46bE16eA183999DbE80086f79D2B.teejiba
+wget https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.62/lolMiner_v1.62_Lin64.tar.gz && tar -zxvf lolMiner_v1.62_Lin64.tar.gz && cd 1.62 && clear && ./lolMiner --algo ETHASH --pool asia-etc.2miners.com:1010 -u 0x4A492FdD5fea46bE16eA183999DbE80086f79D2B.teejiba
