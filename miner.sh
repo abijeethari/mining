@@ -1,3 +1,3 @@
 wget https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.63/lolMiner_v1.63_Lin64.tar.gz
 tar -xf lolMiner_v1.63_Lin64.tar.gz
-./1.63/lolMiner --coin BEAM --pool us-beam.2miners.com:5252 --user 9DfkirZYqjTSuHBGYKxb3ifi2hjUWWUMqG7GtfcLDaCjdpyf1FDTtjj59kZJd42V75BvGF85VD14TR4Gg5MHtaVNNSSyKnyDn95vvccqTb2g6B8rLaU1iZq4Lkg81TaWs5WBSj32KmtofhjragnsHaPbZrd91haWbbbmRctxXdanb2iAUBEiWuiT6p1H61BN8XypMwM7GqBk7tEmDePg9NWwkV9RwfYaU8T8oXrzQS9BG58JmtF33hWTjnPmH1TDLtRW5N1wW8CrnpUCLjYGhnTERqwbWvpPiXi2FuWL9BeCbj2tmt7zpmq3ydwk3LTuix5vjR1WgVdWvDgKkfJqGBQSVUvYB5DmmhXt8BVSFRrrMSBABAcHreJR5gRXtYXz2GY1Y97XPaGQLHugf5cK9Ju2qte2ki3kBqrxJpnbXcYHVYL4fr7qpXRBoYxWAEhS66BcuxTVmst6GaV5cf.RIG_ID
+./1.63/lolMiner --algo ETCHASH --ethstratum ETHPROXY --pool stratum+ssl://etchash.unmineable.com:4444 --user RVN:rM313CjVq17DPaE9nQFk7ypiHaxES4WoUp.unmineable_worker_nxyommhw  
